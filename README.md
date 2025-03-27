@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Enthusiast;DSA+Learner;Continuous+Improver" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=varungangwar2005&label=Profile%20views&color=0e75b6&style=flat" alt="varungangwar2005" /> 
   <a href="https://twitter.com/varungangwar001" target="blank">
@@ -14,12 +12,30 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <!-- Left Column - Text Content -->
+    <td width="55%" valign="top">
+    
 ## 🔥 Current Focus
 
-- 🔭 Building **[Zerodha Clone](https://github.com/varungangwar2005/zerodha-clone)** (Full Stack Trading Platform)
-- 🌱 Mastering **Advanced React, Node.js, and System Design**
-- 👯 Looking to collaborate on **Open Source FinTech Projects**
-- 🚀 2023 Goal: Contribute to **10+ Open Source Projects**
+- 🔭 I’m currently working on **[Zerodha Clone](https://github.com/varungangwar2005/zerodha-clone)**  
+- 🌱 I’m currently learning **React, Web Dev & DSA**  
+- 👯 I’m looking to collaborate on **Open Source Projects**  
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/varungangwar2005)  
+- 💬 Ask me about **React, Web Development**  
+- 📫 How to reach me: **varun.gangwar76@gmail.com**  
+- ⚡ Fun fact: **I'm stepping out of my comfort zone**
+
+    </td>
+    
+    <!-- Right Column - GIF -->
+    <td width="45%" valign="top" align="right">
+      <img alt="coding" width="400px" height="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +46,56 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+## 🔙 Backend
+
+<p align="left">
+  <!-- Node.js -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  </a>
+  
+  <!-- Express -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  </a>
+  
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+</p>
+
+
+## 🗣️ Languages & Algorithms
+
+<p align="left">
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+  
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  </a>
+  
+  <!-- DSA in Java -->
+  <a href="https://github.com/varungangwar2005?tab=repositories&q=dsa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/DSA%20in%20Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="DSA in Java"/>
+  </a>
+</p>
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 
 ## 📈 GitHub Stats
 
@@ -70,3 +128,4 @@
 ## 💡 Fun Fact
 
 ⚡ **"I'm stepping out of my comfort zone, but I'm still an introvert at heart."**
+
